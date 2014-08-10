@@ -1,7 +1,7 @@
 nginx:
   install_from_source: True
   install_from_ppa: False
-  use_upstart: True
+  use_upstart: False
   user_auth_enabled: False
   with_luajit: False
   with_openresty: True
