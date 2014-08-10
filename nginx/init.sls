@@ -1,10 +1,10 @@
 nginx:
-  install_from_source: True
+  install_from_source: False
   install_from_ppa: False
   use_upstart: False
   user_auth_enabled: False
   with_luajit: False
-  with_openresty: True
+  with_openresty: False
 
   openresty:
     version: 1.7.2.1
