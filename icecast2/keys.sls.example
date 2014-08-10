@@ -1,0 +1,7 @@
+icecast2:
+  config:
+    authentication:
+      source-password: e3408654714ae8c53652604a4f22afdf 
+      relay-password: 4f7a3a028c8f8124eba28e670abd8ed7
+      admin-user: admin
+      admin-password: c58e00a30cb43656d1128b0724e4b227 
