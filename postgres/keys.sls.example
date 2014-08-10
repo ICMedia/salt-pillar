@@ -1,0 +1,5 @@
+postgres:
+  users:
+    icr_www:
+      password: '0grYRKUfYlOj87S5402453uU7kl2m9ww'
+      createdb: False

@@ -1,3 +1,8 @@
 base:
-    'icradio-firestar':
-        - icecast2
+  'icradio-firestar':
+    - icecast2
+
+  'galen':
+    - nginx
+    - mysql
+    - postgres
